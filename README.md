@@ -16,6 +16,11 @@ Storing data in the cloud becomes an integral part of most modern IT landscapes.
 
 <li> Restrict sending files only to specific buckets using AWS End Points can be configured in the AWS console
 
+<p>&nbsp;</p>
 This Universal Task focuses on the AMAZON AWS S3 file transfer, including support for MinIO. MinIO is an Open Source object storage server for private cloud environments based on Amazon’s S3 API. All file transfer scenarios supported for AMAZON AWS S3 are also support for MinIO. The scenarios described in this documentation are also valid for MinIO.
 
 A similar solution as for AWS S3 is also available for Microsoft Azure Blob Storage and Google Cloud Storage.
+
+<p>&nbsp;</p>
+Please visit this link to find key features, prerequisites, installation instructions, configuration instructions, and examples of how to use this integration. 
+<a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+AWS+S3">AWS S3</a>.&nbsp;</li>
